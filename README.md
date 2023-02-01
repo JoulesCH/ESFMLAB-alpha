@@ -1,5 +1,4 @@
-
-![image](https://user-images.githubusercontent.com/66523396/216145912-df44a08d-3102-40b7-885e-3d48a246e49b.png)
+![image](https://user-images.githubusercontent.com/66523396/216146103-8c509be3-054a-4404-b8e2-55f0cb0b0237.png)
 
 _Es una aplicación web desarrollada por estudiantes sin fines de lucro. Tiene como objetivo presentar principales métodos numéricos mediante el cómputo de ejercicios ingresados por los usuarios.
 
